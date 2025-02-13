@@ -1,0 +1,11 @@
+python-dotenv
+langchain
+pandas
+plotly
+pymongo
+requests
+streamlit
+ta
+textblob
+nixtla
+setuptools
